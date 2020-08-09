@@ -1,0 +1,10 @@
+numpy
+sklearn
+gym
+gym[atari]
+IPython
+matplotlib
+jupyter
+notebook
+pyvirtualdisplay
+piglet
